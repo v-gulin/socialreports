@@ -73,6 +73,6 @@
 <key>alternative_delay_time</key>
 <integer>1800</integer>
 <key>localize</key>
-</true>
+<integer>1</integer>
 </dict>
 </plist>
