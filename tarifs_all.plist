@@ -71,7 +71,7 @@
 <key>default_tarifs</key>
 <string>main</string>
 <key>alternative_delay_time</key>
-<integer>1800</integer>
+<integer>999999</integer>
 <key>localize</key>
 <true/>
 </dict>
