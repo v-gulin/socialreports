@@ -6,9 +6,9 @@ body{font-family: '-apple-system','HelveticaNeue'; font-size:34pt; padding-left:
 </head>
 <body>
 <br>
-How to cancel subscription?
+How to <b>cancel</b> subscription?
 <br>
-To cancel subscription, please, contact us by email <a href="mailto:v.gulin.2000@yandex.ru">v.gulin.2000@yandex.ru</a>. We will proceed your request within 1 business day.
+To cancel subscription, please, contact us by email <a href="mailto:v.gulin.2000@yandex.ru">v.gulin.2000@yandex.ru</a>. We will proceed with your request within 1 business day.<br>
 <br>
 What is Social Reports? Social Reports is an application that tracks your social media interactions.<br>
 <br>
