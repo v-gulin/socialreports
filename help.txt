@@ -6,6 +6,10 @@ body{font-family: '-apple-system','HelveticaNeue'; font-size:34pt; padding-left:
 </head>
 <body>
 <br>
+How to cancel subscription?
+<br>
+To cancel subscription, please, contact us by email <a href="mailto:v.gulin.2000@yandex.ru">v.gulin.2000@yandex.ru</a>. We will proceed your request within 1 business day.
+<br>
 What is Social Reports? Social Reports is an application that tracks your social media interactions.<br>
 <br>
 It generates basic entertaining reports by tracking who you're following, who you're followed by and tracking your social media posts and users who likes or commenting on them. For example, you can get a report who you're following and who you're not followed by.<br>
