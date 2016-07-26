@@ -6,7 +6,7 @@ body{font-family: '-apple-system','HelveticaNeue'; font-size:34pt; padding-left:
 </head>
 <body>
 <br>
-How to <b>cancel</b> subscription?
+How to <b>cancel subscription</b>?
 <br>
 To cancel subscription, please, contact us by email <a href="mailto:v.gulin.2000@yandex.ru">v.gulin.2000@yandex.ru</a>. We will proceed with your request within 1 business day.<br>
 <br>
