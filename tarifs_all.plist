@@ -8,9 +8,9 @@
 		<key>product_id</key>
 		<string>com.viktorgulin.socialreportspro.weekly</string>
 		<key>title</key>
-		<string>Daily</string>
+		<string>Weekly</string>
 		<key>divide_value</key>
-		<integer>7</integer>
+		<integer>1</integer>
 		<key>badge</key>
 		<string>POPULAR</string>
 	</dict>
@@ -18,9 +18,9 @@
 		<key>product_id</key>
 		<string>com.viktorgulin.socialreportspro.monthly</string>
 		<key>title</key>
-		<string>Hourly</string>
+		<string>Daily</string>
 		<key>divide_value</key>
-		<integer>720</integer>
+		<integer>31</integer>
 		<key>badge</key>
 		<string>BEST OFFER</string>
 	</dict>
@@ -32,21 +32,21 @@
 		<key>product_id</key>
 		<string>com.viktorgulin.socialreportspro.alternative.weekly</string>
 		<key>title</key>
-		<string>Daily</string>
+		<string>Weekly</string>
 		<key>divide_value</key>
-		<integer>7</integer>
+		<integer>1</integer>
 		<key>badge</key>
-		<string>-45%</string>
+		<string>-35%</string>
 	</dict>
 	<dict>
 		<key>product_id</key>
 		<string>com.viktorgulin.socialreportspro.alternative.monthly</string>
 		<key>title</key>
-		<string>Hourly</string>
+		<string>Daily</string>
 		<key>divide_value</key>
-		<integer>720</integer>
+		<integer>31</integer>
 		<key>badge</key>
-		<string>-50%</string>
+		<string>-60%</string>
 	</dict>
 </array>
 <key>default_tarifs</key>
