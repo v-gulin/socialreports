@@ -36,17 +36,17 @@
 		<key>divide_value</key>
 		<integer>1</integer>
 		<key>badge</key>
-		<string>-35%</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>product_id</key>
 		<string>com.viktorgulin.socialreportspro.alternative.monthly</string>
 		<key>title</key>
-		<string>Daily</string>
+		<string>FREE!</string>
 		<key>divide_value</key>
-		<integer>31</integer>
+		<integer>100000</integer>
 		<key>badge</key>
-		<string>-60%</string>
+		<string>-100%</string>
 	</dict>
 </array>
 <key>default_tarifs</key>
