@@ -44,7 +44,7 @@
 		<key>title</key>
 		<string>FREE!</string>
 		<key>divide_value</key>
-		<integer>100000</integer>
+		<integer>10000000</integer>
 		<key>badge</key>
 		<string>-100%</string>
 	</dict>
