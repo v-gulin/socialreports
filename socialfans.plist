@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>main</key>
+<array>
+	<dict>
+		<key>product_id</key>
+		<string>com.atarasov.socialfans.instagram</string>
+		<key>title</key>
+		<string>Just [price] per week!</string>
+		<key>divide_value</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>product_id</key>
+		<string>com.atarasov.socialfans.instagram.monthly</string>
+		<key>title</key>
+		<string>Only [price] per month!</string>
+		<key>divide_value</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>product_id</key>
+		<string>com.atarasov.socialfans.facebook.weekly</string>
+		<key>title</key>
+		<string>Just [price] per week!</string>
+		<key>divide_value</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>product_id</key>
+		<string>com.atarasov.socialfans.facebook.monthly</string>
+		<key>title</key>
+		<string>Only [price] per month!</string>
+		<key>divide_value</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>product_id</key>
+		<string>com.atarasov.socialfans.twitter.weekly</string>
+		<key>title</key>
+		<string>Just [price] per week!</string>
+		<key>divide_value</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>product_id</key>
+		<string>com.atarasov.socialfans.twitter.monthly</string>
+		<key>title</key>
+		<string>Only [price] per month!</string>
+		<key>divide_value</key>
+		<integer>1</integer>
+	</dict>
+</array>
+<key>localize</key>
+<true/>
+</dict>
+</plist>
