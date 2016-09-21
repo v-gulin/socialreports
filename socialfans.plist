@@ -53,6 +53,33 @@
 		<integer>1</integer>
 	</dict>
 </array>
+<key>alternative</key>
+<array>
+	<dict>
+		<key>product_id</key>
+		<string>com.atarasov.socialfans.instagram.monthly</string>
+		<key>title</key>
+		<string>Try for FREE for a week!</string>
+		<key>divide_value</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>product_id</key>
+		<string>com.atarasov.socialfans.facebook.monthly</string>
+		<key>title</key>
+		<string>Try for FREE for a week!</string>
+		<key>divide_value</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>product_id</key>
+		<string>com.atarasov.socialfans.twitter.monthly</string>
+		<key>title</key>
+		<string>Try for FREE for a week!</string>
+		<key>divide_value</key>
+		<integer>1</integer>
+	</dict>
+</array>
 <key>localize</key>
 <true/>
 </dict>
